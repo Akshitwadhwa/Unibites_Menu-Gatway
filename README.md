@@ -6,6 +6,7 @@ This project implements a shopping cart screen for the UniBites food delivery ap
 - Increase/decrease item quantities
 - Remove items
 - Proceed to payment
+- ( the payment gataway is yet to be initialised but the cart gateaway works seemlessly)
 
 ## Firebase Integration Instructions
 The current implementation uses hardcoded data for the cart items. To properly integrate with Firebase, follow these steps:
